@@ -26,8 +26,8 @@
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![GO](https://img.shields.io/badge/-GO-05122A?style=flat&logo=GO)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=Vue)&nbsp;
-![Nuxt](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=Nuxt)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
+![Nuxt](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt)&nbsp;
 
 
 
