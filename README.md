@@ -1,59 +1,36 @@
+<h1 align="center">
+  <b>Timur Trips</b>
+</h1>
 
-## 👋 &nbsp;Hey there! I'm Timur
+Heya! I'm Timur Sarvarov, a developer living in Israel.<br>
 
-### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-✉️ &nbsp;You can shoot me an email at timursarvarov@gmail.com! I'll try to respond as soon as I can.\
-  <div align=space-between>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=Typescript&logoColor=007acc&labelColor=282828">
+<img src="https://img.shields.io/badge/-Vue.js-2b983?style=for-the-badge&logo=vuedotjs&logoColor=2b983&labelColor=282828">
+<img src="https://img.shields.io/badge/-react.js-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=282828">
+<img src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82&labelColor=282828">
+<img src="https://img.shields.io/badge/-GO-29BEB0?style=for-the-badge&logo=go&logoColor=29BEB0&labelColor=282828">
+<img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=282828">
+<img src="https://img.shields.io/badge/-Flutter-0175C2?style=for-the-badge&logo=Flutter&logoColor=0175C2&labelColor=282828">
+<img src="https://img.shields.io/badge/-java-f89820?style=for-the-badge&logo=java&logoColor=f89820&labelColor=282828">
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-  <div>
-    ### 🛠 &nbsp;Tech Stack
+</div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
-![GO](https://img.shields.io/badge/-GO-05122A?style=flat&logo=GO)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
-![Nuxt](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxtdotjs)&nbsp;
-
-  </div>
-  </div
-
-  <div align=center>
-        <h1>Contribution Activity</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=ahmedfathydev&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
-        <br>
-        
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfathydev&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
-        <br>
-       
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedFathyDev&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
-        <br>
-        <br>
-    </div>
-    <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
-    </div>### ⚙️ &nbsp;GitHub Analytics
-
+<br/>
 <p align="center">
-<a href="https://github.com/timursarvarov">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=timursarvarov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/timursarvarov">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=timursarvarov&count_private=true&theme=algolia&langs_count=10"/>
-</a>
+    <a href="https://timursarvarov.dev/">
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=timursarvarov&theme=gruvbox&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=timursarvarov&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=timursarvarov&count_private=true&langs_count=5&theme=gruvbox&hide_border=true&layout=compact" />
+
+  </a>
 </p>
+<br>
 
+[![Timur Activity Graph](https://activity-graph.herokuapp.com/graph?username=timursarvarov&custom_title=Timur%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]()
 
-
+------
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
