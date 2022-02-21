@@ -5,7 +5,7 @@
 Heya! I'm Timur Sarvarov, a developer living in Israel.<br>
 
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=Typescript&logoColor=007acc&labelColor=282828">
 <img src="https://img.shields.io/badge/-Vue.js-2b983?style=for-the-badge&logo=vuedotjs&logoColor=2b983&labelColor=282828">
 <img src="https://img.shields.io/badge/-react.js-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=282828">
@@ -18,14 +18,11 @@ Heya! I'm Timur Sarvarov, a developer living in Israel.<br>
 </div>
 
 <br/>
-<p align="center">
-    <a href="https://timursarvarov.dev/">
+<div align="center">
     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=timursarvarov&theme=gruvbox&hide_border=true" />
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=timursarvarov&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=timursarvarov&count_private=true&langs_count=5&theme=gruvbox&hide_border=true&layout=compact" />
-
-  </a>
-</p>
+</div>
 <br>
 
 [![Timur Activity Graph](https://activity-graph.herokuapp.com/graph?username=timursarvarov&custom_title=Timur%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]()
