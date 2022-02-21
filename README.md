@@ -5,11 +5,11 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 ✉️ &nbsp;You can shoot me an email at timursarvarov@gmail.com! I'll try to respond as soon as I can.\
-<!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
+  <div align=space-between>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
+  <div>
+    ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -20,19 +20,35 @@
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![GO](https://img.shields.io/badge/-GO-05122A?style=flat&logo=GO)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs)&nbsp;
-![Nuxt](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
+![Nuxt](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxtdotjs)&nbsp;
 
+  </div>
+  </div
 
+  <div align=center>
+        <h1>Contribution Activity</h1>
+        <img src="https://github-readme-stats.vercel.app/api?username=ahmedfathydev&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <br>
+        
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfathydev&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
+        <br>
+       
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedFathyDev&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+        <br>
+        <br>
+    </div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>### ⚙️ &nbsp;GitHub Analytics
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="">
+<p align="center">
 <a href="https://github.com/timursarvarov">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=timursarvarov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/timursarvarov">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=timursarvarov&layout=compact&theme=algolia&langs_count=10"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=timursarvarov&count_private=true&theme=algolia&langs_count=10"/>
 </a>
 </p>
 
