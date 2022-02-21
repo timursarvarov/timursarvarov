@@ -10,9 +10,9 @@ Hey! I'm Timur Sarvarov, a developer based in Israel.
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=Typescript&logoColor=007acc&labelColor=282828">&nbsp;
-<img src="https://img.shields.io/badge/-Vue.js-2b983?style=for-the-badge&logo=vuedotjs&logoColor=2b983&labelColor=282828">&nbsp;
-<img src="https://img.shields.io/badge/-react.js-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=282828">&nbsp;
-<img src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82&labelColor=282828">&nbsp;
+<img src="https://img.shields.io/badge/-Vue-2b983?style=for-the-badge&logo=vuedotjs&logoColor=2b983&labelColor=282828">&nbsp;
+<img src="https://img.shields.io/badge/-react-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=282828">&nbsp;
+<img src="https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82&labelColor=282828">&nbsp;
 <img src="https://img.shields.io/badge/-GO-29BEB0?style=for-the-badge&logo=go&logoColor=29BEB0&labelColor=282828">&nbsp;
 <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=282828">&nbsp;
 <img src="https://img.shields.io/badge/-Flutter-0175C2?style=for-the-badge&logo=Flutter&logoColor=0175C2&labelColor=282828">&nbsp;
