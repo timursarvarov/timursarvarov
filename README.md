@@ -23,8 +23,8 @@ Hey! I'm Timur Sarvarov, a developer based in Israel.
 <br/>
 <div align="left">
     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=timursarvarov&theme=gruvbox&hide_border=true" />
-    <img width="41%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=timursarvarov&count_private=true&langs_count=10&theme=gruvbox&hide_border=true&layout=compact" />
-    <img width="57%" src="https://github-readme-stats.vercel.app/api?username=timursarvarov&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="38%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=timursarvarov&count_private=true&langs_count=10&theme=gruvbox&hide_border=true&layout=compact" />
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=timursarvarov&show_icons=true&theme=gruvbox&hide_border=true" />
 </div>
 <br>
 
